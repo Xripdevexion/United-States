@@ -9,7 +9,7 @@ an roblox account generator for kids,requests based.
 
 
 
-❗️you can create a capbypass account and buy an api key from [here](https://capbypass.com/signup?inviteCode=1hneCOA)
+❗️you can create a capbypass account and get a free key from [here](https://capbypass.com/signup?inviteCode=1hneCOA)
 
 
 
